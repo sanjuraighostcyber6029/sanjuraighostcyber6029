@@ -1,10 +1,10 @@
-👨‍💻 Sagar Rai | GhostCyber Lab S.P
+👨‍💻 Sanju Rai | GhostCyber Lab S.P
 
 🛡️ Security Researcher | 📊 Data Science Enthusiast | 💻 Ethical Hacker | Python Developer
 
 Welcome to my GitHub profile!
 
-I'm Sagar Rai, the founder of GhostCyber Lab S.P, passionate about cybersecurity, ethical hacking, data science, programming, and exploring emerging technologies.
+I'm Sanju Rai, the founder of GhostCyber Lab S.P, passionate about cybersecurity, ethical hacking, data science, programming, and exploring emerging technologies.
 
 My mission is to learn, research, build, and contribute to a safer digital world.
 
